@@ -1,13 +1,14 @@
 {
-    "GameApp": {
+    "wordGame": {
         "code": "200",
-        "message": "Success",
-        "gamename": "Star Elimination",
-        "version": "1",
-        "versionName": "1.0.0",
-        "data": {
-            "isUrl": "",
-            "starActivity": "MainActivity"
+        "Success": "true",
+        "error": "no",
+        "dataBady": {
+            "successUrl": "",
+            "version": "1",
+            "versionName": "1.0",
+            "isApp": "No",
+            "Upperline": "No"
         }
     }
 }
